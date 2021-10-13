@@ -1,7 +1,7 @@
-original: smartxx.github.io
+Origin: smartxx.github.io
 Label: smartxx.github.io
 Suite: stable
-version: 1.0
-Architectures: iphoneos-are
+Version: 1.0
+Architectures: iphoneos-arm
 Components: main
 Description: Arabization of tweak and the best tweak in Cydia
