@@ -1,1 +1,1 @@
-# smartxx.github.io
+# https://smartx1.github.io/repo/
