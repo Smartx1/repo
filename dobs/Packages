@@ -1,1 +1,15 @@
 
+Package: com.cokepokes.appstoreplusplus11
+Version: 9.16.2
+Architecture: iphoneos-arm
+Maintainer: Flx	
+Depends:  firmware (>= 11.0), mobilesubstrate 	
+Conflicts: com.unlimapps.uaupdatetools	
+Filename: debs/com.cokepokes.appstoreplusplus_0.9.5_iphoneos-arm.deb	
+Size: 1670732	
+MD5sum: e6e914ec0c7e9938241241a96d5c4821	
+SHA1: 056678da97b18a9d880a332c90dcf12c5c0ef674	
+SHA256: 3742beed0cab8114ac1e7c4d5c81fa30c467edd29df710204f9e3d8923b059e2	
+Section: Tweaks	Section: Tweaks
+Depiction: https://smartx1.github.io/repo/	Depiction: https://repo.packix.com/package/com.ioscreatix.littlex/
+Name: appstore++
