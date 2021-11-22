@@ -6,6 +6,6 @@
 
 <script>
 function myFunction() {
-  alert("My Store Now Signed!😄");
+  alert("Welcome To Smart Repo😄");
 }
 </script>
