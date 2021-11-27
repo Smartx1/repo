@@ -1,1 +1,17 @@
-
+Package: com.opa334.safariplus_1.7.18-3_iphoneos-arm
+Version: 1.7.18-3
+Architecture: iphoneos-arm
+Maintainer: opa334
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Filename: deb/com.opa334.safariplus_1.7.18-3_iphoneos-arm.deb
+Size: 5628
+MD5sum: 25b3628b26a29bbc451b56f45c36e0e4
+SHA1: 35a230511b59b9c21de734311bf4b54e45b5d25f
+SHA256: 317bf85d2ff34bb6f1c505f6617888acbc0ba550ff9ac7def572fab5d826ba08
+Section: Tweaks
+Priority: optional
+Description: Add features to Safari
+Author: opa334
+Depiction: https://smartx1.github.io/repo/
+Name: Safari Plus
