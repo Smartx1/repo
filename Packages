@@ -32,3 +32,21 @@ Description: Adds authentication layer to hidden albums.
 Author: Smart
 Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hiddenlock14Dp
 Name: HiddenLock14
+
+
+Package: xyz.royalapps.cleanhomescreen
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: Justin Proulx
+Depends: mobilesubstrate,preferenceloader
+Conflicts: com.unlimapps.uaupdatetools
+Filename: dobs/xyz.royalapps.cleanhomescreen_1.0.4_iphoneos-arm.deb
+Size: 348
+MD5sum: 03c9029b619211127cc28241283dd8e2
+SHA1: 6e951bb7f15b772336966221ba23251f1732d776
+SHA256: 5e548174d50c0aa8f5584d7373279f3444835b8e45b0a162072b23ce26f79ad0
+Section: Tweaks
+Description: Does it spark joy? — Clean Home Screen helps you remove all the clutter from your home screen and lock screen, offering you a simple and clean app launching experience!
+Author: Smart
+Depiction: https://repo.dynastic.co/package/xyz.royalapps.cleanhomescreen
+Name: Clean Home Screen
