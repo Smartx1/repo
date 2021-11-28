@@ -23,7 +23,7 @@ Maintainer: yan
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.2), preferenceloader
 Conflicts: com.unlimapps.uaupdatetools
 Filename: dobs/com.opa334.safariplus_1.7.18-3_iphoneos-arm.deb
-Size: 5628
+Size: 1004
 MD5sum: 951a2d77e85aa805e402ac0618d1de5f
 SHA1: c497ff7c8357a9352b75220a967eae5639aa52b9
 SHA256: 0451c58cfa85d0733f870c7308675b4472e2d3f83de466616afa9b7821f4e88e
