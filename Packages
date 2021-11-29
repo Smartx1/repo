@@ -23,7 +23,7 @@ Maintainer: yan
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.2), preferenceloader
 Conflicts: com.unlimapps.uaupdatetools
 Filename: dobs/com.opa334.safariplus_1.7.18-3_iphoneos-arm.deb
-Size: 1004
+Size: 5628
 MD5sum: 951a2d77e85aa805e402ac0618d1de5f
 SHA1: c497ff7c8357a9352b75220a967eae5639aa52b9
 SHA256: 0451c58cfa85d0733f870c7308675b4472e2d3f83de466616afa9b7821f4e88e
@@ -50,3 +50,21 @@ Description: Does it spark joy? — Clean Home Screen helps you remove all the c
 Author: Smart
 Depiction: https://repo.dynastic.co/package/xyz.royalapps.cleanhomescreen
 Name: Clean Home Screen
+
+
+Package: com.bandarhl.bhtwitter
+Version: 2.8
+Architecture: iphoneos-arm
+Maintainer: BandarHelal
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Filename: dobs/com.bandarhl.bhtwitter_2.8_iphoneos-arm.deb
+Size: 715.94
+MD5sum: 552b3247237b4ef208749c483afb9133
+SHA1: 6e575dcf4ef6576d5b02a36dd8cc0866552c7e64
+SHA256: 68d4a044afed29cd9d511b1280b7c0242219dc30d76da5ef9ddb0301bae32710
+Section: Tweaks
+Description: awesome Tweak for Twitter.
+Author: Smart
+Depiction: https://repo.packix.com/package/com.bandarhl.BHTwitter/
+Name: BHTwitter
