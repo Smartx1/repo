@@ -1,7 +1,8 @@
-original: Smart Repo
+Origin: Smart Repo
 Label: Smart Repo
 Suite: stable
-version: 1.0
-Architectures: iphoneos-are
+Version: 1.0
+Codename: cydia-ios
+Architectures: iphoneos-arm
 Components: main
 Description: Translation of tweak and the best tweak in Cydia
