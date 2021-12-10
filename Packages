@@ -86,3 +86,21 @@ Description: Dedicated settings app for tweaks
 Author: Smart
 Depiction: https://creaturecoding.com/?page=depiction&id=tweaksettings
 Name: TweakSettings
+
+
+Package: com.getwebsite.kira
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kira
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Filename: dobs/com.getwebsite.kira_1.0_iphoneos-arm.deb
+Size: 
+MD5sum: cbaf20e61eabcd306e09132be1344dd2
+SHA1: 6e575dcf4ef6576d5b02a36dd8cc0866552c7e64
+SHA256: 74b2fd256591543d68572819df812925ac9a52a7d0e6fc24216287feade1f8e1
+Section: Tweaks
+Description: Simple, fast, easy and no complicated shit. Just open console and type "getwebsite URL"
+Author: Smart
+Depiction: https://github.com/IJustNeedOffsets/getwebsite/releases/tag/1.0
+Name: getwebsite
