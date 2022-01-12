@@ -79,7 +79,7 @@ Conflicts: com.unlimapps.uaupdatetools
 Filename: dobs/com.creaturecoding.tweaksettings_1.0.6_iphoneos-arm.deb
 Size: 664
 MD5sum: 4975307135d9e1e9ac5df0b562a11faf
-SHA1: 6d483e77ecc3958cc48cfb9d24f66a38b02d7cd4
+SHA1: ef0e3e690f7ebab2bf7eceb8ad3c7e03597ad3f7
 SHA256: 90285407d144d3af9f77e2c3b76b5e271740ca2d843dd41d0d81a5ed1142cbdd
 Section: Tweaks
 Description: Dedicated settings app for tweaks
@@ -104,3 +104,12 @@ Description: Simple, fast, easy and no complicated shit. Just open console and t
 Author: Smart
 Depiction: https://pastebin.com/raw/2qhx2CrC
 Name: getwebsite
+
+
+Package: com.Smart.NoUpdateBadge
+Version: 0.2
+Section: Tweak
+Maintainer: @dtu0
+Architecture: iphoneos-arm
+Name: NoUpdateBadge تعريب أداة
+Author: @dtu0
