@@ -113,3 +113,20 @@ Maintainer: @dtu0
 Architecture: iphoneos-arm
 Name: NoUpdateBadge تعريب أداة
 Author: @dtu0
+
+Package: com.smartig.insta
+Version: 1
+Architecture: iphoneos-arm
+Maintainer: @dtu0
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.unlimapps.uaupdatetools
+Filename: com.smartig.insta_1_iphoneos-arm.deb
+Size: 3063
+MD5sum: 25244f4aece1555af642bdb0c3ebc1ab
+SHA1: c604aa9dabdf8c2178b180418bfbb7118975a873
+SHA256: 254a744e71b21cf4cd6e93824ab9eb96f488c32a8193574e242f0d60fce9b756
+Section: Tweaks
+Description: Disable Emoji Picker in Comments Section
+Author: Smart
+Depiction: 
+Name: DisableEmojiPicker
